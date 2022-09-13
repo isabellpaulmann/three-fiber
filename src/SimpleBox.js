@@ -17,5 +17,5 @@ export default function SimpleBox() {
 
 
 const StyledCanvas = styled.div`
-height: 700px;
+height: 600px;
 `
